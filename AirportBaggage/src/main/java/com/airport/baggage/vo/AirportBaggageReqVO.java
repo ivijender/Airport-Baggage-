@@ -2,6 +2,9 @@ package com.airport.baggage.vo;
 
 import java.util.List;
 
+/**
+ * Created by inavoulv on 7/2/2018.
+ */
 public class AirportBaggageReqVO {
 	
 	 private List<BaggageReqVO> BaggageReqLst;

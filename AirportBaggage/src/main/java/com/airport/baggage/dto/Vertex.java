@@ -1,5 +1,8 @@
 package com.airport.baggage.dto;
 
+/**
+ * Created by inavoulv on 7/2/2018.
+ */
 public class Vertex {
 
 	final private int id;

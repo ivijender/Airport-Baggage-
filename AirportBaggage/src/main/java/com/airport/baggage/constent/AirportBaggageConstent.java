@@ -7,6 +7,9 @@ import java.util.List;
 import com.airport.baggage.dto.Departures;
 import com.airport.baggage.dto.Vertex;
 
+/**
+ * Created by inavoulv on 7/2/2018.
+ */
 public class AirportBaggageConstent {
 	public static final String ARRIVAL="ARRIVAL";
 	public static final String BAGGAGE_CLAIM="BAGGAGE_CLAIM";

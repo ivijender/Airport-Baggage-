@@ -12,6 +12,9 @@ import com.airport.baggage.vo.AirportBaggageResVO;
 import com.airport.baggage.vo.BaggageReqVO;
 import com.airport.baggage.vo.BaggageResVO;
 
+/**
+ * Created by inavoulv on 7/2/2018.
+ */
 public class AirportBaggageProcess {
 	private List<Vertex> nodes;
 	private List<Edge> edges;

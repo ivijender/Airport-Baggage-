@@ -13,6 +13,9 @@ import com.airport.baggage.dto.Edge;
 import com.airport.baggage.dto.Graph;
 import com.airport.baggage.dto.Vertex;
 
+/**
+ * Created by inavoulv on 7/2/2018.
+ */
 public class OptimalRouteSearchUtil {
 	
 	private final List<Vertex> nodes;

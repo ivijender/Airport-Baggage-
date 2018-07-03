@@ -10,6 +10,9 @@ import com.airport.baggage.dto.Graph;
 import com.airport.baggage.dto.Vertex;
 import com.airport.baggage.util.OptimalRouteSearchUtil;
 
+/**
+ * Created by inavoulv on 7/2/2018.
+ */
 public class ConveyorSystemServiceImpl {
 	private List<Vertex> nodes = AirportBaggageConstent.NODES;
 

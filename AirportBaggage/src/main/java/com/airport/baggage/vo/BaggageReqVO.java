@@ -1,5 +1,8 @@
 package com.airport.baggage.vo;
 
+/**
+ * Created by inavoulv on 7/2/2018.
+ */
 public class BaggageReqVO {
 	private String bagNumber;
 	private String entryPoint;
